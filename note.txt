@@ -1,0 +1,9 @@
+vi install-git.sh 
+
+chmod +x install-git.sh 
+
+./install-git.sh
+
+git clone https://github.com/AWS-First-Cloud-Journey/AWS-FCJ-Management.git
+
+
